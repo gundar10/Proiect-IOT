@@ -1,3 +1,3 @@
 # Proiect-IOT
 
-Membrii: Puscasu Bogdan, Axinte Calin-Cristian
+Membri: Puscasu Bogdan, Axinte Calin-Cristian
